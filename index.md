@@ -1,4 +1,4 @@
-## Welcome to the next CloudBank webinar announcement
+## Welcome to the [CloudBank](https://cloudbank.org) pending webinar announcement
 
 Where: [This Zoom call](https://washington.zoom.us/meeting/94393873308)
 
