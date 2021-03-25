@@ -1,18 +1,31 @@
-## Welcome to the [CloudBank](https://cloudbank.org) pending webinar announcement
+# Welcome to the [CloudBank](https://cloudbank.org) pending webinar announcement
 
-Where: [This Zoom call](https://washington.zoom.us/meeting/94393873308)
+### Where
+[This Zoom call](https://washington.zoom.us/meeting/94393873308)
 
-When: Friday March 26 2021 at 2PM EDT / 10AM PDT 
+### When
+**Friday** March 26 2021 at **2PM EDT / 10AM PDT** 
 
-Duration: We keep these brief: 20 minutes + linger for questions time
+### Duration
+**20 minutes** + linger for questions time. We keep these brief.
 
-What: An overview of the NSF CloudBank program:  Who it applies to, how to engage, benefits
+### What
+An overview of the **NSF CloudBank program**:  Who it applies to, how to engage with us, benefits from adoption
 
-Who are we: University of California San Diego, University of Washington, UC Berkeley
+### Who are we
+A team of researchers, educators and cloud specialists from:
+- University of California San Diego
+- University of Washington
+- UC Berkeley
 
-Who is eligible: NSF CISE proposers; with plans to expand to other NSF Directorates. See also: Our CloudBank-Enterprise option.
+### Who is eligible
+- NSF CISE proposers, with plans to expand to other Directorates
+- Researchers with other funding sources, through our **CloudBank Enterprise** program.
 
-Why: Research acceleration via adoption of the public cloud (in our case AWS, Azure, GCP, IBM clouds) 
+### Why
+We are passionate about accelrating research via adoption of the public cloud. To this end, we work with cloud vendors (currently AWS, Azure, GCP, IBM clouds) and scientists to lower the barrier to entry and smooth the process of getting projects the computational power they need, when they need it, as cost-effectively as possible.
+
+---
 
 This webinar is brought to you by the Education Outreach and Training element of the 
 [CloudBank](https://cloudbank.org) project. 
@@ -21,4 +34,4 @@ Participating universities UCSD, UC Berkeley and University of Washington are wo
 and optimize cloud adoption by NSF-sponsored researchers. Features of working with CloudBank include
 cost savings, training/learning, curriculum applications (JupyterHub instances) and more. 
 
-For direct inquiries please email help@cloudbank.org.
+For direct inquiries please email [help@cloudbank.org](mailto: help@cloudbank.org).
