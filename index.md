@@ -1,7 +1,7 @@
 # Welcome to the [CloudBank](https://cloudbank.org) pending webinar announcement
 
 ### Where
-[This Zoom call](https://washington.zoom.us/meeting/94393873308)
+[This Zoom call](https://washington.zoom.us/j/94393873308)
 
 ### When
 **Friday** March 26 2021 at **2PM EDT / 10AM PDT** 
