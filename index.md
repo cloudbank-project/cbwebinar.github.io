@@ -13,17 +13,17 @@
 An overview of the **NSF CloudBank program**:  Who it applies to, how to engage with us, benefits from adoption
 
 ### Who are we
-A team of researchers, educators and cloud specialists from:
+A team of researchers, educators and **cloud specialists** from:
 - University of California San Diego
 - University of Washington
 - UC Berkeley
 
 ### Who is eligible
-- NSF CISE proposers, with plans to expand to other Directorates
+- **NSF CISE** proposers, with plans to expand to other Directorates
 - Researchers with other funding sources, through our **CloudBank Enterprise** program.
 
 ### Why
-We are passionate about accelrating research via adoption of the public cloud. To this end, we work with cloud vendors (currently AWS, Azure, GCP, IBM clouds) and scientists to lower the barrier to entry and smooth the process of getting projects the computational power they need, when they need it, as cost-effectively as possible.
+We are passionate about **accelrating research** via adoption of the public cloud. To this end, we work with cloud vendors (currently AWS, Azure, GCP, IBM clouds) and scientists to **lower the barrier to entry** and **smooth the process** of getting projects the computational power they need, when they need it, as cost-effectively as possible.
 
 ---
 
