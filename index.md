@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the next CloudBank webinar announcement
+
+Where: [Zoom call]( https://washington.zoom.us/meeting/94393873308![image](https://user-images.githubusercontent.com/6199513/112517277-5e5fb800-8d55-11eb-83fc-11c2bd3f39df.png)
+
 
 You can use the [editor on GitHub](https://github.com/cloudbank-project/cbwebinar.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
