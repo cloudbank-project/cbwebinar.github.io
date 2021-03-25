@@ -1,3 +1,3 @@
-# cbwebinar.github.io
+# cbwebinar.invitation
 
-Announcement page
+Landing page for Cloudbank webinars and info sessions
