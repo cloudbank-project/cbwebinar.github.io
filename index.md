@@ -1,16 +1,14 @@
 # Welcome to the [CloudBank](https://cloudbank.org) pending webinar announcement
 
-### Where
-[This Zoom call](https://washington.zoom.us/j/94393873308)
+### Where and When
+There are no pending CloudBank webinars at this time. Future events will be announced here.
 
-### When
-**Friday** March 26 2021 at **2PM EDT / 10AM PDT** 
 
 ### Duration
-**20 minutes** + linger for questions time. We keep these brief.
+CloudBank overview webinars run **20 minutes**; plus a linger for questions time. We keep these brief.
 
 ### What
-An overview of the **NSF CloudBank program**:  Who it applies to, how to engage with us, benefits from adoption
+An overview of the [**NSF CloudBank program**](https://cloudbank.org):  Who it applies to, how to engage with us, benefits
 
 ### Who are we
 A team of researchers, educators and **cloud specialists** from:
@@ -19,8 +17,8 @@ A team of researchers, educators and **cloud specialists** from:
 - UC Berkeley
 
 ### Who is eligible
-- **NSF CISE** proposers, with plans to expand to other Directorates
-- Researchers with other funding sources, through our **CloudBank Enterprise** program.
+- **NSF CISE** proposers, and CloudBank plans to expand to other NSF Directorates
+- Researchers with other funding sources: Can use CloudBank via our **CloudBank Enterprise** program.
 
 ### Why
 We are passionate about **accelrating research** via adoption of the public cloud. To this end, we work with cloud vendors (currently AWS, Azure, GCP, IBM clouds) and scientists to **lower the barrier to entry** and **smooth the process** of getting projects the computational power they need, when they need it, as cost-effectively as possible.
