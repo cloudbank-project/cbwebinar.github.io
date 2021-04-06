@@ -1,4 +1,37 @@
-## Welcome to the [CloudBank](https://cloudbank.org) pending webinar announcement
+# Welcome! This is the [CloudBank](https://cloudbank.org) pending webinars announcement page
+
+This page provides information on upcoming webinars for CloudBank and other learning opportunities.
+
+
+# Azure
+
+## Azure for Academics Training Series for Universities
+
+* [Azure 101 Training videos](https://onedrive.live.com/?authkey=%21AH7MppeKHjd%2DesE&id=4C1E66DBE820747F%21107&cid=4C1E66DBE820747F)
+* [Working with Data in Azure](https://onedrive.live.com/?authkey=%21AGF%5FfGB4XuuQnZs&id=4C1E66DBE820747F%21131&cid=4C1E66DBE820747F)
+* [Machine Learning on Azure](https://onedrive.live.com/?authkey=%21AKRe2Cn9L05gvAA&id=4C1E66DBE820747F%21116&cid=4C1E66DBE820747F)
+
+In addition to these videos, Azure will host live workshop office hours associated with each topic: Azure 101, Azure Data, and Azure Machine Learning.  
+Watch the videos and bring questions and ideas to these ***office hour calls***. 
+
+* April 9, 10AM PST: [Azure 101](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjlhNGViOGMtZTNmNy00ZWI2LWExNmYtM2ExYTM0ZTJkNjBm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22502f4fca-831b-4d76-b147-632e7e7bb8db%22%7d)
+* April 16, 10AM PST: [Data in Azure](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTAxNDI1MjQtNWY5Mi00ZmVlLWI0YTktMjc0OWVlMzA0N2Q4%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22502f4fca-831b-4d76-b147-632e7e7bb8db%22%7d)
+* April 23, 10AM PST: [Azure Machine Learning](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmIxN2IxOWYtZGRmZC00NWMzLWFjYzgtYWE5ZTJmMDAyYTBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22502f4fca-831b-4d76-b147-632e7e7bb8db%22%7d)
+
+
+
+# Amazon Web Services
+
+
+# Google Cloud Platform
+
+
+# IBM Cloud
+
+
+# CloudBank: An NSF-sponsored program to accelerate research computing on the cloud
+
+This is a periodic webinar series. No webinars scheduled at this time. 
 
 
 ### Where, When, Duration
