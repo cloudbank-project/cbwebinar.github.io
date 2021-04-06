@@ -2,7 +2,8 @@
 
 Information on upcoming webinars for CloudBank plus other cloud learning opportunities.
 
-
+<BR><BR><BR>
+  
 # Azure
 
 
@@ -23,20 +24,27 @@ Watch the videos and bring questions and ideas to these ***office hour calls***.
 * April 23, 10AM PST: [Azure Machine Learning](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmIxN2IxOWYtZGRmZC00NWMzLWFjYzgtYWE5ZTJmMDAyYTBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22502f4fca-831b-4d76-b147-632e7e7bb8db%22%7d)
 
 
+<BR><BR><BR>
 
 # Amazon Web Services
 
 
-April 13 12:30 -- 3:30 PM PST: Introduction to Cloud Computing with Amazon Web Services (AWS) – the Foundations (link pending)
+April 13 12:30 -- 3:30 PM PST: Introduction to Cloud Computing with Amazon Web Services (AWS) – the Foundations ([meeting link](https://www.google.com/url?q=https://chime.aws/7415350677&sa=D&source=calendar&ust=1618078670584000&usg=AOvVaw3rg0RZ2kKAV8IPd_BTcpee))
 
+
+<BR><BR><BR>
 
 # Google Cloud Platform
 
 no pending events at the moment
 
+<BR><BR><BR>
+
 # IBM Cloud
 
 no pending events at the moment
+
+<BR><BR><BR>
 
 # CloudBank: An NSF-sponsored program to accelerate research computing on the cloud
 
