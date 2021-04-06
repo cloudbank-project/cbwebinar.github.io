@@ -1,9 +1,10 @@
-# Welcome! This is the [CloudBank](https://cloudbank.org) pending webinars announcement page
+# Welcome to [CloudBank](https://cloudbank.org) pending announcements!
 
-This page provides information on upcoming webinars for CloudBank and other learning opportunities.
+Information on upcoming webinars for CloudBank plus other cloud learning opportunities.
 
 
 # Azure
+
 
 ## Azure for Academics Training Series for Universities
 
@@ -26,11 +27,16 @@ Watch the videos and bring questions and ideas to these ***office hour calls***.
 # Amazon Web Services
 
 
+April 13 12:30 -- 3:30 PM PST: Introduction to Cloud Computing with Amazon Web Services (AWS) – the Foundations (link pending)
+
+
 # Google Cloud Platform
 
+no pending events at the moment
 
 # IBM Cloud
 
+no pending events at the moment
 
 # CloudBank: An NSF-sponsored program to accelerate research computing on the cloud
 
