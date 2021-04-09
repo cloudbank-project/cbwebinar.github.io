@@ -1,8 +1,16 @@
 # Welcome to [CloudBank](https://cloudbank.org) pending announcements!
 
-Information on upcoming webinars for CloudBank plus other cloud learning opportunities.
+Information on [upcoming CloudBank webinars](https://cloudbank-project.github.io/cbwebinar.invitation/) and
+cloud learning events for the cloud platforms we work with: Azure, Amazon Web Services, Google Cloud Platform and IBM cloud.
 
-<BR><BR><BR>
+
+- There is no pending webinar for CloudBank at this time
+- Link: The [CloudBank Portal](https://cloudbank.org)
+- Link: The [CloudBank Community Forum](https://community.cloudbank.org)
+
+
+
+<BR><BR>
   
 # Azure
 
@@ -24,7 +32,7 @@ Watch the videos and bring questions and ideas to these ***office hour calls***.
 * April 23, 10AM PST: [Azure Machine Learning](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmIxN2IxOWYtZGRmZC00NWMzLWFjYzgtYWE5ZTJmMDAyYTBk%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%22502f4fca-831b-4d76-b147-632e7e7bb8db%22%7d)
 
 
-<BR><BR><BR>
+<BR><BR>
 
 # Amazon Web Services
 
@@ -32,39 +40,43 @@ Watch the videos and bring questions and ideas to these ***office hour calls***.
 April 13 12:30 -- 3:30 PM PST: Introduction to Cloud Computing with Amazon Web Services (AWS) – the Foundations ([meeting link](https://www.google.com/url?q=https://chime.aws/7415350677&sa=D&source=calendar&ust=1618078670584000&usg=AOvVaw3rg0RZ2kKAV8IPd_BTcpee))
 
 
-<BR><BR><BR>
+<BR><BR>
 
 # Google Cloud Platform
 
 no pending events at the moment
 
-<BR><BR><BR>
+<BR><BR>
 
 # IBM Cloud
 
 no pending events at the moment
 
-<BR><BR><BR>
+<BR><BR>
 
-# CloudBank: An NSF-sponsored program to accelerate research computing on the cloud
 
-This is a periodic webinar series. No webinars scheduled at this time. 
+# More on CloudBank
 
 
 ### Where, When, Duration
 
 
-There are no pending CloudBank webinars at this time. Future events will be announced here.
 CloudBank overview webinars run for **20 minutes** and we stay on the line for questions afterward for as long as you like.
 
 
 ### What is the webinar about?
 
 
-An overview of the [**NSF CloudBank program**](https://cloudbank.org):  Who it applies to, how to engage, benefits
+An overview of the [**NSF CloudBank program**](https://cloudbank.org)
+
+- Who it applies to
+- How to engage with us
+- How to estimate the cost of using the cloud for research computing
+- Benefits of working with CloudBank
 
 
 ### Who are we?
+
 
 A team of researchers, educators and **cloud specialists** from:
 - University of California San Diego
@@ -88,7 +100,7 @@ of connecting research programs to the computational power they need, when they 
 
 ---
 
-This webinar is brought to you by the Education Outreach and Training element of the 
+This webinar announcement / invite page is brought to you by the Education Outreach and Training element of the 
 [CloudBank](https://cloudbank.org) project. 
 Cloudbank is an NSF initiative to lower barrier-to-entry for researchers to use commercial cloud. 
 Participating universities UCSD, UC Berkeley and University of Washington are working to streamline
