@@ -17,11 +17,11 @@ cloud learning events for the cloud platforms we work with: Azure, Amazon Web Se
 
 ## Azure for Academics Training Series for Universities
 
-* [Azure 101 Training videos](https://onedrive.live.com/?authkey=%21AH7MppeKHjd%2DesE&id=4C1E66DBE820747F%21107&cid=4C1E66DBE820747F) 
+* [Azure 101 Training videos](https://aka.ms/university-azure/GettingStartedAzure) 
 ([Syllabus](https://onedrive.live.com/?authkey=%21AH7MppeKHjd%2DesE&cid=4C1E66DBE820747F&id=4C1E66DBE820747F%21143&parId=4C1E66DBE820747F%21107&o=OneUp))
-* [Working with Data in Azure](https://onedrive.live.com/?authkey=%21AGF%5FfGB4XuuQnZs&id=4C1E66DBE820747F%21131&cid=4C1E66DBE820747F)
+* [Working with Data in Azure](https://aka.ms/university-azure/DataOnAzure)
 ([Syllabus](https://onedrive.live.com/?authkey=%21AGF%5FfGB4XuuQnZs&cid=4C1E66DBE820747F&id=4C1E66DBE820747F%21154&parId=4C1E66DBE820747F%21131&o=OneUp))
-* [Machine Learning on Azure](https://onedrive.live.com/?authkey=%21AKRe2Cn9L05gvAA&id=4C1E66DBE820747F%21116&cid=4C1E66DBE820747F)
+* [Machine Learning on Azure](https://aka.ms/university-azure/MachineLearning)
 ([Syllabus](https://onedrive.live.com/?authkey=%21AKRe2Cn9L05gvAA&cid=4C1E66DBE820747F&id=4C1E66DBE820747F%21153&parId=4C1E66DBE820747F%21116&o=OneUp))
 
 In addition to these videos, Azure will host live workshop office hours associated with each topic: Azure 101, Azure Data, and Azure Machine Learning.  
