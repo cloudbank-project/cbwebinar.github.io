@@ -1,13 +1,15 @@
-# Welcome to [CloudBank](https://cloudbank.org) pending announcements!
+# Welcome to [CloudBank](https://cloudbank.org) pendings!
 
-Information on [upcoming CloudBank webinars](https://cloudbank-project.github.io/cbwebinar.invitation/) and
-cloud learning events for the cloud platforms we work with: Azure, Amazon Web Services, Google Cloud Platform and IBM cloud.
+[Upcoming CloudBank webinars](https://cloudbank-project.github.io/cbwebinar.invitation/) and
+learning events for the platforms we work with: Azure, Amazon Web Services, Google Cloud Platform and IBM cloud.
 
 
-- There is no pending webinar for CloudBank at this time
-- Link: The [CloudBank Portal](https://cloudbank.org)
-- Link: The [CloudBank Community Forum](https://community.cloudbank.org)
+- [CloudBank Portal](https://cloudbank.org)
+- [CloudBank Community Forum](https://community.cloudbank.org)
 
+
+- No pending webinar for CloudBank at this time
+- Pending: [Summer Internet-2 Cloud Learning](https://internet2.edu/class)
 
 
 <BR><BR>
@@ -37,20 +39,20 @@ Watch the videos and bring questions and ideas to these ***office hour calls***.
 # Amazon Web Services
 
 
-April 13 12:30 -- 3:30 PM PST: Introduction to Cloud Computing with Amazon Web Services (AWS) – the Foundations ([meeting link](https://www.google.com/url?q=https://chime.aws/7415350677&sa=D&source=calendar&ust=1618078670584000&usg=AOvVaw3rg0RZ2kKAV8IPd_BTcpee))
+Nothing pending at the moment
 
 
 <BR><BR>
 
 # Google Cloud Platform
 
-no pending events at the moment
+Nothing pending at the moment
 
 <BR><BR>
 
 # IBM Cloud
 
-no pending events at the moment
+Nothing pending at the moment
 
 <BR><BR>
 
